@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1> 💫 Greetings, I'm Ridwan Yinusa Opeyemi, known as RYO!</h1> 
- I'm a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.
+<p> I'm a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.</p>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanyinus" /> </p>
 
 - 🌍 Based in Nigeria, Lagos
@@ -17,7 +18,6 @@
         <a href = "mailto:ridwanyinusa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://github.com/ridwanyinus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
          </a>
-        
    </div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=default" alt="ridwanyinus" /></a> </p>
  <h3 align="left">Languages and Tools:</h3>
