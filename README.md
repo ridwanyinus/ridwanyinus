@@ -11,7 +11,6 @@
 -  🧪 Problem Solver (testing, debugging ...)
 -  ♟️ Chess Enthusiasts 
 - ⚡ Fun fact:I have a knack for picking up new skills and concepts swiftly!
-- ⚡ Fun fact: I have a knack for picking up new skills and concepts swiftly!
 -  💻 Let's collaborate and build something amazing together!
 
 
