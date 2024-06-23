@@ -14,12 +14,17 @@
 - ⚡ Fun fact: I have a knack for picking up new skills and concepts swiftly!
 -  💻 Let's collaborate and build something amazing together!
 
-   <div>  
-        <a href = "mailto:ridwanyinusa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-        <a href="https://github.com/ridwanyinus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
-         </a>
-   </div>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=default" alt="ridwanyinus" /></a> </p>
+
+  <div>  
+     <a href = "mailto:ridwanyinusa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://github.com/ridwanyinus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
+    </a>
+  </div>
+   
+<p align="left"> 
+<img alt="ridwanyinus" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko">
+</p>
+
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -36,9 +41,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/>
 </p>
 <h2> 📊 GitHub Stats:</h2>
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&layout=compact" alt="ridwan" /></p>
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
 <p> <a align="left"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </a></p>
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=" alt="ridwan" /></p>
+<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&&theme=merko" alt="ridwan" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics </h3>
 <div align="center">
 <a href="https://github.com/ridwanyinus">
