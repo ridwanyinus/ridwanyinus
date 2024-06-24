@@ -9,7 +9,7 @@
 -  ✉️ Contact me at ridwanyinusa15@gmail.com
 - 💻 Code Addict
 -  🧪 Problem Solver (testing, debugging ...)
--  ♟️ Chess Enthusiasts 
+-  ♟️ Avid Chess Player
 - ⚡ Fun fact:I have a knack for picking up new skills and concepts swiftly!
 -  💻 Let's collaborate and build something amazing together!
 
