@@ -21,10 +21,9 @@
      <a href = "mailto:ridwanyinusa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
      <a href="https://github.com/ridwanyinus" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"> 
     </a>
-   <a href="https://www.linkedin.com/in/ridwan-opeyemi-yinusa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-   
+   <a href="https://www.linkedin.com/in/ridwan-opeyemi-yinusa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   </div>
+  <br>
    
 <p align="left"> 
 <img alt="ridwanyinus" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko">
@@ -52,6 +51,7 @@
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
 <p> <a align="left"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </a></p>
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&&theme=merko" alt="ridwan" /></p>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics </h3>
 <div align="center">
 <a href="https://github.com/ridwanyinus">
