@@ -1,5 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1> 💫 Hi, I'm RYO (Ridwan Yinusa Opeyemi)!</h1> 
+<h1>  Hi, I'm RYO (Ridwan Yinusa Opeyemi)!</h1> 
+<h1 align="center">
+💫 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hey+There+%F0%9F%91%8B;I'm+Ridwan!" alt="Typing SVG" /></a>
+</h1>
 <p> I'm a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanyinus" /> </p>
@@ -27,7 +30,7 @@
 <img alt="ridwanyinus" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko">
 </p>
 
- <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Framework and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>    
