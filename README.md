@@ -30,6 +30,7 @@
 </p>
 
  <h2 align="center"> 🔮 Framework and Tools:</h2>
+   <br>
  <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git," />
 <br>
