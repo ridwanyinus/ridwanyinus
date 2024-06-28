@@ -33,11 +33,9 @@
  <p align="center">
       <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,bootstrap" />
 <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,javascript,typescript,ps,java,nextjs,ai,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,javascript,typescript,ps,java,nextjs,ai,figma" />  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/><br>
 </p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/>
-</p>
+
 
 <h2> 📊 GitHub Stats:</h2>
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
