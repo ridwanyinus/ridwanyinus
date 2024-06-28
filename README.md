@@ -31,9 +31,9 @@
 
  <h2 align="center"> 🔮 Framework and Tools:</h2>
  <p align="center">
-      <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git," />
 <br>
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,javascript,typescript,ps,java,nextjs,ai,figma" />  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/><br>
+  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,bootstrap,ps,ai,figma" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/><br>
 </p>
 
 
