@@ -30,6 +30,11 @@
 </p>
 
  <h2 align="center"> 🔮 Framework and Tools:</h2>
+ <p align="center">
+      <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
+<br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs" /><br>
+</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/>    
