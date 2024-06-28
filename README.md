@@ -47,6 +47,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Ai" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/>
 </p>
+
 <h2> 📊 GitHub Stats:</h2>
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
 <p> <a align="left"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </a></p>
