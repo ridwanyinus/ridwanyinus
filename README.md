@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanyinus" /> </p>
 
 - 🌍 Based in Nigeria, Lagos
-- 🖥️ See my portfolio at Loading.......
+- 🖥️ See my portfolio at [Loading.......](https://rebrand.ly/fhuaplo)
 -  ✉️ Contact me at ridwanyinusa15@gmail.com
 - 💻 Code Addict
 -  🧪 Problem Solver (testing, debugging ...)
