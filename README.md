@@ -40,7 +40,6 @@
 <p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
 <br>
 <p> <a align="left"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </a></p>
-<br>
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&&theme=merko" alt="ridwan" /> <br></p>
 <br>
 
