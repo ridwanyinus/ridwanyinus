@@ -13,7 +13,7 @@
 - ⚡ Fun fact:I have a knack for picking up new skills and concepts swiftly!
 -  💻 Let's collaborate and build something amazing together!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/pioche_dgreat)](https://discord.com/users/pioche_dgreat)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1142082910351011991)](https://discord.com/users/1142082910351011991)
 
   <div>  
      <a href = "mailto:ridwanyinusa15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
