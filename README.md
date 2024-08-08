@@ -25,7 +25,7 @@
   <a href="mailto:ridwanyinusa15@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/1142082910351011991" style="margin-left: 8px;">
+  <a href="https://rebrand.ly/wteax6q" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   
