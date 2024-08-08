@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1  align="center" > 💫 Hi, I'm RYO - Ridwan Yinusa Opeyemi -</h1> 
+<h1  align="center" > 💫 Hi, I'm RYO - Ridwan Yinusa Opeyemi </h1> 
 <p> I'm a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.</p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="ridwanyinus" /> </p>
@@ -10,7 +10,7 @@
 - 💻 Code Addict
 -  🧪 Problem Solver (testing, debugging ...)
 -  ♟️ Avid Chess Player
-- ⚡ Fun fact:I have a knack for picking up new skills and concepts swiftly!
+- ⚡ Fun fact: I have a knack for picking up new skills and concepts swiftly!
 -  💻 Let's collaborate and build something amazing together!
 
 
@@ -25,7 +25,8 @@
   <br>
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/1142082910351011991)](https://discord.com/users/1142082910351011991)
-   
+<!--[![Shakur's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shakur)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <p align="left"> 
 <img alt="ridwanyinus" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko">
 </p>
@@ -35,16 +36,17 @@
  <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,git," />
 <br>
-  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,bootstrap,ps,ai,figma" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canva_Logo.svg" alt="canva" width="40" height="40"/><br>
+  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,bootstrap,ps,ai,figma" /> <br>
 </p>
 
 
 <h2 align="center"> 📊 GitHub Stats:</h2>
 <br>
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></p>
 
-<p> <a align="left"> <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </a></p><br>
-<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&&theme=merko" alt="ridwan" /> <br></p>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=merko&layout=compact" alt="ridwan" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&theme=merko&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="ridwan" /></a> |
+|-------------------------------------------------|-------------------------------------------------|
+<br>
+<p><img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&&theme=tokyonight" alt="ridwan" /> <br></p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <h2 align="center">🔮 Statistics and Metrics</h2>
