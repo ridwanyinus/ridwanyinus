@@ -31,11 +31,13 @@
   <a href="https://www.linkedin.com/in/ridwan-opeyemi-yinusa/" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <div style="margin-left: auto;">
-    [![Discord Presence](https://lanyard.cnrad.dev/api/1142082910351011991)](https://discord.com/users/1142082910351011991)
-  </div>
+  
 </div>
 <br>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1142082910351011991)](https://discord.com/users/1142082910351011991)
+
+
 
 <p align="center">
   <img alt="ridwanyinus" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko" />
