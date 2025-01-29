@@ -56,7 +56,7 @@
       </a>
     </td>
     <td style="background-color: #ffffff;">
-      <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="Ridwan's streak" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
   <tr>
