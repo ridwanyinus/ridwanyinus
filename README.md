@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center">𝙸'𝚖 𝚁𝚒𝚍𝚠𝚊𝚗 𝚈𝚒𝚗𝚞𝚜 𝙾𝚙𝚎𝚢𝚎𝚖𝚒, 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝙵𝚛𝚘𝚗𝚝-𝙴𝚗𝚍 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚑𝚘 𝚝𝚑𝚛𝚒𝚟𝚎𝚜 𝚘𝚗 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚟𝚎 𝚊𝚗𝚍 𝚞𝚜𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚘 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚗𝚎𝚠 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚎 𝚎𝚕𝚎𝚐𝚊𝚗𝚝 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚞𝚜𝚎𝚛 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</p>
+<p align="center">I'm Ridwan Yinus Opeyemi, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
