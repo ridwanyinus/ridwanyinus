@@ -48,22 +48,22 @@
 <table>
   <tr>
     <td style="background-color: #f0f0f0;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://ridwanyinus.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="𝚁𝚒𝚍𝚠𝚊𝚗'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜" />
       </a>
     </td>
     <td style="background-color: #ffffff;">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚛𝚎𝚊𝚔" /></a>
+      <a href="https://ridwanyinus.is-a.dev/"><img src="https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚛𝚎𝚊𝚔" /></a>
     </td>
   </tr>
   <tr>
     <td style="background-color: #ffffff;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://ridwanyinus.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=tokyonight" />
       </a>
     </td>
     <td style="background-color: #f0f0f0;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://ridwanyinus.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakur&theme=tokyonight&layout=compact" alt="𝚂𝚑𝚊𝚔𝚞𝚛'𝚜 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚜𝚝𝚊𝚝𝚜" />
       </a>
     </td>
