@@ -52,8 +52,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="𝚁𝚒𝚍𝚠𝚊𝚗'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜" />
       </a>
     </td>
+    <!-- https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true
+    https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true
+    -->
     <td style="background-color: #ffffff;">
-      <a href="https://ridwanyinus.is-a.dev/"><img src="https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚛𝚎𝚊𝚔" /></a>
+      <a href="https://ridwanyinus.is-a.dev/"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚛𝚎𝚊𝚔" /></a>
     </td>
   </tr>
   <tr>
