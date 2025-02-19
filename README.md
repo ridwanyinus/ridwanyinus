@@ -56,7 +56,9 @@
     https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true
     -->
     <td style="background-color: #ffffff;">
-      <a href="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜.(˘･_･˘)𝚃𝚑𝚒𝚜 𝚒𝚜 𝚕𝚒𝚔𝚎𝚕𝚢 𝚊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸 𝚒𝚜𝚜𝚞𝚎." /></a>
+      <a href="">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜.(˘･_･˘)𝚃𝚑𝚒𝚜 𝚒𝚜 𝚕𝚒𝚔𝚎𝚕𝚢 𝚊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸 𝚒𝚜𝚜𝚞𝚎."/>
+      </a>
     </td>
   </tr>
   <tr>
