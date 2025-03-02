@@ -1,12 +1,10 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
 <p align="center">
   <a href="https://ridwanyinus.is-a.dev/">
     <img width="80%" alt="𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚁𝚒𝚍𝚠𝚊𝚗 𝙸 𝚍𝚘 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍!" src="./assets/bg.png" />
   </a>
 </p>
 
-<p align="center">I'm Ridwan Yinus Opeyemi, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications. I love to explore new technologies and create elegant solutions that enhance user experiences.</p>
+<p align="center">I'm Ridwan Yinus Opeyemi, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
