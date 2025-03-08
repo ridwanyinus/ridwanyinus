@@ -36,9 +36,9 @@
 
 <h2 align="center">🔮 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,typescript,tailwind,jquery,git" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,ruby,html,css,nextjs,tailwind,bootstrap,git" />
   <br>
-  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,bootstrap,mysql,postgres,supabase,ps,ai,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,nodejs,mysql,postgres,supabase,ps,ai,figma,obsidian" />
 </p>
 
 <h2 align="center">📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝚂𝚝𝚊𝚝𝚜:</h2>
