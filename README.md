@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
 </p>
 
-- 🖥️ 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://ridwanyinus.is-a.dev/)
+- 🖥️ 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://ridwan.is-a.dev/)
 - ✉️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜𝚊𝟷𝟻@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
 - 💻 𝙲𝚘𝚍𝚎 𝙰𝚍𝚍𝚒𝚌𝚝
 - 🧪 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛 (𝚝𝚎𝚜𝚝𝚒𝚗𝚐, 𝚍𝚎𝚋𝚞𝚐𝚐𝚒𝚗𝚐 ...)
@@ -54,8 +54,8 @@
     https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true
     -->
     <td style="background-color: #ffffff;">
-      <a href="">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜.(˘･_･˘)𝚃𝚑𝚒𝚜 𝚒𝚜 𝚕𝚒𝚔𝚎𝚕𝚢 𝚊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸 𝚒𝚜𝚜𝚞𝚎."/>
+      <a href="https://ridwanyinus.is-a.dev/">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜.(˘･_･˘) 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚕𝚒𝚔𝚎𝚕𝚢 𝚊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸 𝚒𝚜𝚜𝚞𝚎."/>
       </a>
     </td>
   </tr>
