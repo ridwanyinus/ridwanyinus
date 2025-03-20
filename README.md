@@ -28,8 +28,6 @@
 </div>
 <br>
 
-[![𝙳𝚒𝚜𝚌𝚘𝚛𝚍 𝙿𝚛𝚎𝚜𝚎𝚗𝚌𝚎](https://lanyard.cnrad.dev/api/1142082910351011991)](https://discord.com/users/1142082910351011991)
-
 <p align="center">
   <img alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko" />
 </p>
