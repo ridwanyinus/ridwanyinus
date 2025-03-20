@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ridwanyinus.is-a.dev/">
+  <a href="https://ridwan.is-a.dev/">
     <img width="80%" alt="𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚁𝚒𝚍𝚠𝚊𝚗 𝙸 𝚍𝚘 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍!" src="./assets/bg.png" />
   </a>
 </p>
@@ -46,7 +46,7 @@
 <table>
   <tr>
     <td style="background-color: #f0f0f0;">
-      <a href="https://ridwanyinus.is-a.dev/">
+      <a href="https://ridwan.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ridwanyinus&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="𝚁𝚒𝚍𝚠𝚊𝚗'𝚜 𝙶𝚒𝚝𝙷𝚞𝚋 𝚜𝚝𝚊𝚝𝚜" />
       </a>
     </td>
@@ -54,7 +54,7 @@
     https://github-readme-streak-stats-beige-kappa.vercel.app?user=ridwanyinus&theme=tokyonight&hide_border=true
     -->
     <td style="background-color: #ffffff;">
-      <a href="https://ridwanyinus.is-a.dev/">
+      <a href="https://ridwan.is-a.dev/">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ridwanyinus&theme=tokyonight&hide_border=true" alt="𝙵𝚊𝚒𝚕𝚎𝚍 𝚝𝚘 𝚛𝚎𝚝𝚛𝚒𝚎𝚟𝚎 𝚌𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜.(˘･_･˘) 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚕𝚒𝚔𝚎𝚕𝚢 𝚊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝙿𝙸 𝚒𝚜𝚜𝚞𝚎."/>
       </a>
     </td>
@@ -66,7 +66,7 @@
       </a>
     </td>
     <td style="background-color: #f0f0f0;">
-      <a href="https://ridwanyinus.is-a.dev/">
+      <a href="https://ridwan.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakur&theme=tokyonight&layout=compact" alt="𝚂𝚑𝚊𝚔𝚞𝚛'𝚜 𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚜𝚝𝚊𝚝𝚜" />
       </a>
     </td>
