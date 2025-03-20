@@ -28,7 +28,7 @@
 </div>
 <br>
 
-[!Discord Presence](https://lanyard.cnrad.dev/api/1142082910351011991)
+<img alt="!Discord Presence" src="https://lanyard.cnrad.dev/api/1142082910351011991" />
 
 <p align="center">
   <img alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" src="https://github-profile-trophy.vercel.app/?username=ridwanyinus&theme=merko" />
