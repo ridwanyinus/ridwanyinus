@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://ridwan.is-a.dev/">
-    <img width="80%" alt="𝙷𝚎𝚕𝚕𝚘, 𝙸'𝚖 𝚁𝚒𝚍𝚠𝚊𝚗 𝙸 𝚍𝚘 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍!" src="./assets/intro_.gif" />
-  </a>
-</p>
+[<img src="./assets/gifintro.gif" alt="👋 Hi there! I'm (Ridwan)|https://ridwan.is-a.dev)" title="👋 Hi there! I'm (RIdwan)|https://ridwan.is-a.dev)"/>](https://ridwan.is-a.dev/)
 
 <p align="center">I'm Ridwan Yinus Opeyemi, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications.</p>
 
