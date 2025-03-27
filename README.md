@@ -1,4 +1,4 @@
-[<img style="width: 100%; max-width: 100%; height: auto;" src="./assets/output.gif" alt="👋 Hi there! I'm Ridwan|https://ridwan.is-a.dev" title="👋 Hi there! I'm RIdwan|https://ridwan.is-a.dev)"/>](https://ridwan.is-a.dev/)
+[<img style="width: 100%; max-width: 100%; height: auto;" src="./assets/output.gif" alt="👋 Hi there! I'm Ridwan|https://ridwan.is-a.dev" title="👋 Hi there! I'm Ridwan (https://ridwan.is-a.dev)"/>](https://ridwan.is-a.dev/)
 
 <p align="center">I'm Ridwan, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications.</p>
 
