@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
 </p>
 
-- 🖥️ 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [𝙼𝚢 𝙿𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://ridwan.is-a.dev/)
+- 🖥️ 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [ridwan.is-a.dev](https://ridwan.is-a.dev/)
 - ✉️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎 𝚊𝚝 𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜𝚊𝟷𝟻@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
 - 💻 𝙲𝚘𝚍𝚎 𝙰𝚍𝚍𝚒𝚌𝚝
 - 🧪 𝙿𝚛𝚘𝚋𝚕𝚎𝚖 𝚂𝚘𝚕𝚟𝚎𝚛 (𝚝𝚎𝚜𝚝𝚒𝚗𝚐, 𝚍𝚎𝚋𝚞𝚐𝚐𝚒𝚗𝚐 ...)
