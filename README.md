@@ -1,6 +1,6 @@
-[<img style="width: 100%; max-width: 100%; height: auto;" src="./assets/gifintro.gif" alt="👋 Hi there! I'm (Ridwan)|https://ridwan.is-a.dev)" title="👋 Hi there! I'm (RIdwan)|https://ridwan.is-a.dev)"/>](https://ridwan.is-a.dev/)
+[<img style="width: 100%; max-width: 100%; height: auto;" src="./assets/output.gif" alt="👋 Hi there! I'm Ridwan|https://ridwan.is-a.dev" title="👋 Hi there! I'm RIdwan|https://ridwan.is-a.dev)"/>](https://ridwan.is-a.dev/)
 
-<p align="center">I'm Ridwan Yinus Opeyemi, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications.</p>
+<p align="center">I'm Ridwan, a passionate Front-End developer who thrives on crafting responsive and user-friendly web applications.</p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
