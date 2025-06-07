@@ -6,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=ridwanyinus&label=Profile%20views&color=0e75b6&style=flat" alt="𝚛𝚒𝚍𝚠𝚊𝚗𝚢𝚒𝚗𝚞𝚜" />
 </p>
 
-- 🖥️ 𝚂𝚎𝚎 𝚖𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚊𝚝 [ridwan.is-a.dev](https://ridwan.is-a.dev/)
+- 🎨 𝙰𝚜𝚙𝚒𝚛𝚒𝚗𝚐 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- ♟️ 𝙰𝚟𝚒𝚍 𝚌𝚑𝚎𝚜𝚜 𝚙𝚕𝚊𝚢𝚎𝚛
+- 🌐 [𝚛𝚒𝚍𝚠𝚊𝚗.𝚒𝚜-𝚊.𝚍𝚎𝚟](𝚑𝚝𝚝𝚙𝚜://𝚛𝚒𝚍𝚠𝚊𝚗.𝚒𝚜-𝚊.𝚍𝚎𝚟/)
 
 <div style="display: flex; align-items: center;">
   <a href="mailto:ridwanyinusa15@gmail.com">
