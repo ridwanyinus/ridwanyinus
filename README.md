@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td style="background-color: #ffffff;">
-      <a href="https://ridwanyinus.is-a.dev/">
+      <a href="https://ridwan.is-a.dev/">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridwanyinus&theme=tokyonight" />
       </a>
     </td>
